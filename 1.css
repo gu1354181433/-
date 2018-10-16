@@ -2,9 +2,9 @@ body,div,p {
     margin: 0%;
 }
 body{
-    width     : 100%;
-    background: url(task20_03.png);
-    color     : white;
+    width           : 100%;
+    background-color: rgb(104, 205, 213);
+    color           : white;
 }
 div{
     width    : 100%;
